@@ -43,7 +43,7 @@ As a Large Language Model (LLM) Engineer, I specialize in the development and ap
   - Hugging Face Transformers
   - Docker
   - Apache Airflow
-  - PostreSQL
+  - PostgreSQL
 
 - **Data Engineering:**
   - Data Preprocessing
@@ -81,14 +81,14 @@ As a Large Language Model (LLM) Engineer, I specialize in the development and ap
 
 ## Open Source Contribution
 
-- [Hugging Face](https://github.com/huggingface/notebooks/pull/440#pullrequestreview-1692099812)
-- [Ivy](https://github.com/unifyai/ivy/pull/14370)
+- [Hugging Face](https://github.com/huggingface/notebooks/pull/440#pullrequestreview-1692099812) 🤗
+- [Ivy](https://github.com/unifyai/ivy/pull/14370) 🌿
 
 ## Contact Information
 
 Feel free to reach out to me for collaboration, inquiries, or just to connect. You can contact me through:
 
-- Email: [jolalemi@gmail.com](mailto:jolalemi@gmail.com)
-- LinkedIn: [Joshua Olalemi](https://www.linkedin.com/in/joshua-olalemi/)
+- Email: [jolalemi@gmail.com ✉️](mailto:jolalemi@gmail.com)
+- LinkedIn: [Joshua Olalemi 🔗](https://www.linkedin.com/in/joshua-olalemi/)
 
 I am open to new opportunities, discussions, and collaborations. Let's make an impact together!
