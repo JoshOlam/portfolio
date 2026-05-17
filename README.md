@@ -9,6 +9,7 @@ Static GitHub Pages portfolio for Joshua Olalemi, Senior AI/ML Engineer and Cons
   - ChainPilot AI
   - AI-Powered Scientific Search Engine
   - FDE Assessment: Sora Union
+  - SpeechFlow AI
 - Placeholder links for upcoming repositories:
   - e-commerce-ai-search
   - ai-agent-chatbot
